@@ -1,7 +1,7 @@
 # LabhDeveloper2
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Labh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labh-khatke-4436b0180/)
+![Linkedin Badge](https://img.shields.io/badge/-Labh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labh-khatke-4436b0180/)
 
 [![StackOverFlow Badge](https://img.shields.io/badge/StackOverflow-Labh-yellow)](https://stackoverflow.com/users/17870135/labh)
 
