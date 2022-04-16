@@ -1,9 +1,11 @@
 # LabhDeveloper2
 ### Hi Developers 👋
 
-[![Linkedin](https://www.linkedin.com/in/labh-khatke-4436b0180/)
+[![Linkedin Badge](https://img.shields.io/badge/-Labh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labh-khatke-4436b0180/)]((https://www.linkedin.com/in/labh-khatke-4436b0180/)
+
+[![StackOverFlow Badge](https://img.shields.io/badge/StackOverflow-Labh-yellow)](https://stackoverflow.com/users/17870135/labh)
 [![Website Badge](--)
-[![StackOverFlow](https://stackoverflow.com/users/17870135/labh)
+
 
 I'm
 Student of IT Branch currently in Second(2nd) Year of my college.
