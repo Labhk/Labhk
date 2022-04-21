@@ -3,7 +3,7 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/-Labh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labh-khatke-4436b0180/)
 
-[![StackOverFlow Badge](https://img.shields.io/badge/StackOverflow-Labh-yellow)](https://stackoverflow.com/users/17870135/labh)
+[![StackOverFlow Badge](https://img.shields.io/badge/StackOverflow-Labh-yellow)](https://stackoverflow.com/users/17870135/labh)    <p> <img src="https://komarev.com/ghpvc/?username=ajayirkal23&label=Profile%20views&color=0e75b6&style=flat" alt="ajayirkal23" /> </p>
 
 [Website Badge](--)
 
