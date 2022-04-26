@@ -10,7 +10,7 @@
 
 I'm
 Student of IT Branch currently in Second(2nd) Year of my college.
-As an IT student, Programming is said to be our future path. I've coding from my first year in programming language like Python,C,C++ and JAVA and have made some project like banking system,game etc. I've my understanding for the syntax and coding for these programming languages.Now, I've Joined the Internship for the Full Stack Web Development(HTML5, CSS3,bootstrap, Javascript,NodeJs,Mongo db,React,Express) for creation of my desired website.
+As an IT student, Programming is said to be our future path. I've been coding from my first year in programming languages like Python,C,C++ and JAVA and have made some project like banking system,game etcs. I've my understanding for the syntax and coding for these programming languages.Now, I've Joined the Internship for the Full Stack Web Development(HTML5, CSS3,bootstrap, Javascript,NodeJs,Mongo db,React,Express) to create my own website.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/LabhDeveloper/count.svg)
