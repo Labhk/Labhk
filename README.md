@@ -10,7 +10,7 @@
 
 I'm
 Student of IT Branch currently in Third(2nd) Year of my college.
-As an IT student, Programming is said to be our future path. I've been coding from my first year in programming languages like Python,C,C++ and JAVA and have made diferent projects. I've good understanding of syntax and code in these programming languages.I've Completed the Internship for the Full Stack Web Development(HTML5, CSS3,bootstrap, Javascript,NodeJs,Mongo db,React,Express) and built my own e-commerce website and recevied Super Intern Certificate.
+As an IT student, Programming is said to be our future path. I've been coding since highschool in programming languages like Python,C,C++ and JAVA and have made diferent projects. I've good understanding of syntax and code in these programming languages.I've Completed the Internship for the Full Stack Web Development(HTML5, CSS3,bootstrap, Javascript,NodeJs,Mongo db,React,Express) and built my own e-commerce website and recevied Super Intern Certificate.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Labhk/count.svg)
