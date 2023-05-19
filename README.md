@@ -1,4 +1,7 @@
-<h1 align="center"><img  src="https://i.ibb.co/jHzYhXg/63584-coding-wallpaper-1920x1080-wallpaper-collections.jpg" width="65%" height="320px" >
+<h1 align="center">
+  <img src="https://i.ibb.co/jHzYhXg/63584-coding-wallpaper-1920x1080-wallpaper-collections.jpg" alt="Coding Wallpaper" style="max-width: 100%; height: auto;">
+</h1>
+
 <h1 align="center">Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Labh Khatke</h1></h1>
 
 
