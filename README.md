@@ -73,6 +73,6 @@ const labh = {
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,postgres,mongodb,redis,docker,aws,git,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,tailwind,mongodb,firebase,docker,aws,git&theme=dark" />
 </p>
 
